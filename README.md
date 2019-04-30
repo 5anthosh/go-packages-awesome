@@ -16,7 +16,6 @@
         <th>Format</th>
       </tr>
     </thead>
-
     <tbody>
       <tr>
         <td><a href="https://github.com/segmentio/ksuid">github.com/segmentio/ksuid</a></td>
