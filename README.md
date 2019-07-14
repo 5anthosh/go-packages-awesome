@@ -5,7 +5,8 @@
   - A utility library for dealing with slices that focuses on type safety and performance
 - [go-keyring](https://github.com/zalando/go-keyring)
   - Cross-platform keyring interface for Go
-  
+- [go-humanize](https://github.com/dustin/go-humanize)
+  - formatters for units to human friendly sizes
   
 ### UID generator
  <table>
