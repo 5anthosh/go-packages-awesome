@@ -7,6 +7,8 @@
   - Cross-platform keyring interface for Go
 - [go-humanize](https://github.com/dustin/go-humanize)
   - formatters for units to human friendly sizes
+- [kingpin](https://github.com/alecthomas/kingpin)
+  - A Go (golang) command line and flag parser
   
 ### UID generator
  <table>
