@@ -9,6 +9,8 @@
   - formatters for units to human friendly sizes
 - [kingpin](https://github.com/alecthomas/kingpin)
   - A Go (golang) command line and flag parser
+- [bender](https://github.com/pinterest/bender)
+  - An easy-to-use library for creating load testing applications
   
 ### UID generator
  <table>
